@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactjs-projects/static/css/main.2acb3604.css",
-    "main.js": "/reactjs-projects/static/js/main.5eea867e.js",
-    "static/js/787.4829fc1b.chunk.js": "/reactjs-projects/static/js/787.4829fc1b.chunk.js",
-    "index.html": "/reactjs-projects/index.html",
-    "main.2acb3604.css.map": "/reactjs-projects/static/css/main.2acb3604.css.map",
-    "main.5eea867e.js.map": "/reactjs-projects/static/js/main.5eea867e.js.map",
-    "787.4829fc1b.chunk.js.map": "/reactjs-projects/static/js/787.4829fc1b.chunk.js.map"
+    "main.css": "/shaikhsufyan.github.io/react-quiz-app/static/css/main.2acb3604.css",
+    "main.js": "/shaikhsufyan.github.io/react-quiz-app/static/js/main.3af443cc.js",
+    "static/js/787.4829fc1b.chunk.js": "/shaikhsufyan.github.io/react-quiz-app/static/js/787.4829fc1b.chunk.js",
+    "index.html": "/shaikhsufyan.github.io/react-quiz-app/index.html",
+    "main.2acb3604.css.map": "/shaikhsufyan.github.io/react-quiz-app/static/css/main.2acb3604.css.map",
+    "main.3af443cc.js.map": "/shaikhsufyan.github.io/react-quiz-app/static/js/main.3af443cc.js.map",
+    "787.4829fc1b.chunk.js.map": "/shaikhsufyan.github.io/react-quiz-app/static/js/787.4829fc1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2acb3604.css",
-    "static/js/main.5eea867e.js"
+    "static/js/main.3af443cc.js"
   ]
 }
